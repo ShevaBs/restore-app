@@ -1,0 +1,15 @@
+.book-list-item {
+  display: flex;
+  margin: 25px 0;
+}
+
+.book-cover {
+  flex-shrink: 0;
+  width: 150px;
+  margin-right: 30px;
+}
+ 
+.book-cover img {
+  max-width: 100%;
+}
+

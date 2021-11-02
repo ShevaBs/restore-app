@@ -1,0 +1,14 @@
+header {
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 50px;
+}
+
+.header__logo {
+  font-family: 'Playfair Display', serif;
+  font-size: 30px;
+}
+
+.header__logo:hover {
+  text-decoration: none;
+}

@@ -1,0 +1,14 @@
+.cart {
+  display: flex;
+  align-items: center;
+  color: #000;
+}
+
+.cart i {
+  font-size: 25px;
+  margin-right: 7px;
+}
+
+.cart:hover {
+  text-decoration: none;
+}
